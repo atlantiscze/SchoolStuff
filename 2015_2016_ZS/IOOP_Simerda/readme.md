@@ -1,37 +1,32 @@
-<h2>Objektovì orientované programování - Cvièení (Šimerda)</h2>
+<h2>ObjektovÄ› orientovanÃ© programovÃ¡nÃ­ - CviÄenÃ­ (Å imerda)</h2>
 
-Zadání lze najít také na intranetu, a to zde https://fei-sub.upceucebny.cz/ioop/cviceni/   (potøebuje funkèní VPNku)
+ZadÃ¡nÃ­ lze najÃ­t takÃ© na intranetu, a to zde https://fei-sub.upceucebny.cz/ioop/cviceni/   (potÅ™ebuje funkÄnÃ­ VPNku)
 
-Kód zde doporuèuji vyuít jen jako inspiraci/pomoc s øešením konkrétního problému. Nebráním nikomu si to zkopírovat a odevzdat ale nenesu odpovìdnost za pøípadné problémy.
+KÃ³d zde doporuÄuji vyuÅ¾Ã­t jen jako inspiraci/pomoc s Å™eÅ¡enÃ­m konkrÃ©tnÃ­ho problÃ©mu. NebrÃ¡nÃ­m nikomu si to zkopÃ­rovat a odevzdat ale nenesu odpovÄ›dnost za pÅ™Ã­padnÃ© problÃ©my.
 
-<h2>Seznam pøíkladù</h2>
+<h2>Seznam pÅ™Ã­kladÅ¯</h2>
 
 Cv1  - Hotovo
-Cv2  - Èeká na kontrolu vyuèujícím, Coming Even Sooner™
-Cv3  - Hotovo (nahraji sem bìhem pár hodin, max. dnù)
-Cv4+ - Rozpracováno, Coming Soon™
+Cv2  - ÄŒekÃ¡ na kontrolu vyuÄujÃ­cÃ­m, Coming Even Soonerâ„¢
+Cv3  - Hotovo (nahraji sem bÄ›hem pÃ¡r hodin, max. dnÅ¯)
+Cv4+ - RozpracovÃ¡no, Coming Soonâ„¢
 
-<h2>Jak to otevøít</h2>
-Pokud chcete otevøít jen jeden soubor staèí ho pøeèíst v nìjakém editoru (od notepadu po NetBeans).
+<h2>Jak to otevÅ™Ã­t</h2>
+Pokud chcete otevÅ™Ã­t jen jeden soubor staÄÃ­ ho pÅ™eÄÃ­st v nÄ›jakÃ©m editoru (od notepadu po NetBeans).
 
-Pokud chcete projekty umístit do projektu je to sloitìjší. Jsou zde dvì sloky, a to source a tests.
+Pokud chcete projekty umÃ­stit do projektu je to sloÅ¾itÄ›jÅ¡Ã­. Jsou zde dvÄ› sloÅ¾ky, a to source a tests.
 
-Jednotlivé tøídy jsou zároveò v nìkolika balíècích. V jakém balíèku tøída je zjistíte tak e ji otevøete a na prvním øádku bude napø. "package neco;" - tato tøída je pak v balíèku "neco".
+JednotlivÃ© tÅ™Ã­dy jsou zÃ¡roveÅˆ v nÄ›kolika balÃ­ÄcÃ­ch. V jakÃ©m balÃ­Äku tÅ™Ã­da je zjistÃ­te tak Å¾e ji otevÅ™ete a na prvnÃ­m Å™Ã¡dku bude napÅ™. "package neco;" - tato tÅ™Ã­da je pak v balÃ­Äku "neco".
 
-Vytvoøte si projekt a soubory zkopírujte následovnì:
+VytvoÅ™te si projekt a soubory zkopÃ­rujte nÃ¡sledovnÄ›:
 
-Sloka source: PROJEKT/src/jmenobalicku/
-Sloka tests: PROJEKT/test/jmenobalicku/
+SloÅ¾ka source: PROJEKT/src/jmenobalicku/
+SloÅ¾ka tests: PROJEKT/test/jmenobalicku/
 
-jmenobalicku nahraïte jménem balíèku dané tøídy. Tohle musíte udìlat pro kadou tøídu kterou chcete nakopírovat do svého projektu.
+jmenobalicku nahraÄte jmÃ©nem balÃ­Äku danÃ© tÅ™Ã­dy. Tohle musÃ­te udÄ›lat pro kaÅ¾dou tÅ™Ã­du kterou chcete nakopÃ­rovat do svÃ©ho projektu.
 
-Alternativnì mùete jednoduše soubory vytvoøit v NetBeans a potøebné èásti kódu zkopírovat pøímo do editoru.
-
-
+AlternativnÄ› mÅ¯Å¾ete jednoduÅ¡e soubory vytvoÅ™it v NetBeans a potÅ™ebnÃ© ÄÃ¡sti kÃ³du zkopÃ­rovat pÅ™Ã­mo do editoru.
 
 
 
-
-
-
-<small><i>Soon™ a Sooner™ neoznaèuje ádnı konkrétní bod v minulosti, souèasnosti a rozhodnì ne v budoucnosti. Garantujeme e Soon™ a Sooner™ nastane pøed koncem svìta. Moná.</i></small>
+<br><br><br><br><br><hr>Soonâ„¢ a Soonerâ„¢ neoznaÄuje Å¾Ã¡dnÃ½ konkrÃ©tnÃ­ bod v minulosti, souÄasnosti a rozhodnÄ› ne v budoucnosti. Garantujeme Å¾e Soonâ„¢ a Soonerâ„¢ nastane pÅ™ed koncem svÄ›ta. MoÅ¾nÃ¡.</i>
