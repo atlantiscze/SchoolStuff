@@ -1,6 +1,6 @@
 <h2>Objektově orientované programování - Cvičení (Šimerda)</h2>
 
-Zadání lze najít také na intranetu, a to zde https://fei-sub.upceucebny.cz/ioop/cviceni/   (potřebuje funkční VPNku)
+Zadání lze najít na intranetu, a to zde https://fei-sub.upceucebny.cz/ioop/cviceni/   (potřebuje funkční VPNku)
 
 Kód zde doporučuji využít jen jako inspiraci/pomoc s řešením konkrétního problému. Nebráním nikomu si to zkopírovat a odevzdat ale nenesu odpovědnost za případné problémy.
 
