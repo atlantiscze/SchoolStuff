@@ -1,3 +1,3 @@
-<h2>Úvod do jazyka C - Cvièení (Fikejz)</h2>
+<h2>Ãšvod do jazyka C - CviÄenÃ­ (Fikejz)</h2>
 
-Zadání lze také nalézt ve STAGu. Projekty jsou pojmenované podle zadání, nemusí se nutnì shodovat s poøadím cvièení.
+ZadÃ¡nÃ­ lze takÃ© nalÃ©zt ve STAGu. Projekty jsou pojmenovanÃ© podle zadÃ¡nÃ­, nemusÃ­ se nutnÄ› shodovat s poÅ™adÃ­m cviÄenÃ­. NÄ›kterÃ¡ cviÄenÃ­ odpadla a zadÃ¡nÃ­ nejsou na STAGu, proto zde chybÃ­.
