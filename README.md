@@ -1,3 +1,5 @@
-UPCE FEI skolni prace z predmetu IZAPR a IPALP.
+<h2>UPCE FEI školní práce</h2>
 
-Pokud mate praci ktera tu jeste neni pridejte ji pres pull request!
+V tomto repozitáøi najdete nìkteré školní práce jakož i vypracované pøíklady které byly na zápoètech/zkouškách. Soubory se snažím doplnit o co nejdetailnìjší komentáøe tak aby byly srozumitelné.
+
+Pokud máte práci která zde ještì není napište mi a mùžeme ji sem pøidat.
