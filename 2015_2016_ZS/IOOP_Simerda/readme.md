@@ -6,9 +6,9 @@ Kód zde doporučuji využít jen jako inspiraci/pomoc s řešením konkrétníh
 
 <h2>Seznam příkladů</h2>
 
-Hotová cvičení: 1, 2, 3
+Hotová cvičení: 1, 2, 3, 5
 
-Coming Soon™: 4, 5
+Coming Soon™: 4
 
 <h2>Jak to otevřít</h2>
 Pokud chcete otevřít jen jeden soubor stačí ho přečíst v nějakém editoru (od notepadu po NetBeans).
