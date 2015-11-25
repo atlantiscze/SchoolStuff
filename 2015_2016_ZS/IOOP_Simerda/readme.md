@@ -6,10 +6,9 @@ Kód zde doporučuji využít jen jako inspiraci/pomoc s řešením konkrétníh
 
 <h2>Seznam příkladů</h2>
 
-Cv1  - Hotovo
-Cv2  - Čeká na kontrolu vyučujícím, Coming Even Sooner™
-Cv3  - Hotovo (nahraji sem během pár hodin, max. dnů)
-Cv4+ - Rozpracováno, Coming Soon™
+Hotová cvičení: 1, 2, 3
+
+Coming Soon™: 4, 5
 
 <h2>Jak to otevřít</h2>
 Pokud chcete otevřít jen jeden soubor stačí ho přečíst v nějakém editoru (od notepadu po NetBeans).
